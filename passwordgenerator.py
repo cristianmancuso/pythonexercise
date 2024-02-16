@@ -1,9 +1,5 @@
 #Password Generator: Create a program that generates secure passwords for the user.
 
-#primero necesitamos saber cuantos caracteres quiere la contraseña.
-#segundo si quiere letras, numeros o caracteres
-#tercero imprimir la contraseña.
-
 import random
 
 numberchar = int(input('How many characters do you want in your password? '))
