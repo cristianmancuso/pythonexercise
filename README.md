@@ -26,6 +26,6 @@ Replace all vowels in the sentence with the letter 'x'.
 Convert all letters in the sentence to uppercase.
 Print the results.
 
-### 6.Change you in the messega
+### 6.Change you in the message
 Your friend won't stop texting his girlfriend. It's all he does. All day. Seriously. The texts are so mushy too! The whole situation just makes you feel ill. Being the wonderful friend that you are, you hatch an evil plot. While he's sleeping, you take his phone and change the autocorrect options so that every time he types "you" or "u" it gets changed to "your sister."
 Write a function called autocorrect that takes a string and replaces all instances of "you" or "u" (not case sensitive) with "your sister" (always lower case).
